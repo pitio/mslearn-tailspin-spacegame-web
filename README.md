@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/MaximeLeduc0186/Space%20Game%20-%20web%20-%20Pipeline%20new/_apis/build/status/pitio.mslearn-tailspin-spacegame-web?branchName=code-workflow)](https://dev.azure.com/MaximeLeduc0186/Space%20Game%20-%20web%20-%20Pipeline%20new/_build/latest?definitionId=1&branchName=code-workflow)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
